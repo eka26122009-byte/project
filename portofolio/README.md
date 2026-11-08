@@ -16,4 +16,4 @@ as i could to complete the project. There are many challengers an problems that 
 become more responsible.
 
 My goal is to continue learning and improving my skills. I want to again valvable work experience. I also want to keep learning new technologis. I 
-believe hard work and effort will help me achive my goals,
+believe hard work and effort will help me achive my goals.
