@@ -1,0 +1,19 @@
+MY PORTFOLIO
+My nam eis Eka Sofia Kumala,usually called Eka. I am 16 years old. I live in Mojokerto with my parents. My family consist  of five people.
+Namely father,mother,two younger brothers and me. I am the frist child and older sister of my two  younger siblings.
+
+Iam always responsible for the task given to me. I also always try to do my job as wellas possible. I also like learning new things. My weakness
+is that sometimes i feel nervous when speaking in front of many people. but, i always try to practice to be more confident.
+
+My hobby is cooking. I often cook for my family on weekends. I like to experiment and try new recipes. cooking helps me improve my creativity
+and patience. When i cook i feel happy an very excited.
+
+I am a software engineering student, SMKN 1 Dlanggu. I have learned programming, web development, and database basic. I can create a simple 
+website layout using HTML and CSS. I am able to work in a team or individually. And i willing to learn new skills and improve my knowladge.
+
+I have done several project assignments given by the teacher. One of many project is to create a simple websie layout. I worked as hard
+as i could to complete the project. There are many challengers an problems that i faced in some of there projects. It helped me
+become more responsible.
+
+My goal is to continue learning and improving my skills. I want to again valvable work experience. I also want to keep learning new technologis. I 
+believe hard work and effort will help me achive my goals,
