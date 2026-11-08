@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard | PayRoll</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<div class="app">
+
+    <!-- SIDEBAR -->
+    <aside class="sidebar">
+
+        <div class="brand">
+            <div class="brand-icon">P</div>
+            <div>
+                <h2>PayRoll</h2>
+                <small>Sistem Penggajian</small>
+            </div>
+        </div>
+
+        <p class="menu-label">MENU UTAMA</p>
+
+        <nav class="menu">
+            <a href="index.php" class="menu-item active">
+                <span>⌂</span> Dashboard
+            </a>
+
+            <a href="karyawan.php" class="menu-item">
+                <span>♙</span> Data Karyawan
+            </a>
+
+            <a href="penggajian.php" class="menu-item">
+                <span>▤</span> Penggajian
+            </a>
+
+            <a href="laporan.php" class="menu-item">
+                <span>▣</span> Laporan
+            </a>
+        </nav>
+
+        <!-- PROFIL ADMIN -->
+        <div class="profile">
+            <div class="profile-avatar">A</div>
+            <div class="profile-info">
+                <small>Selamat datang,</small>
+                <strong>Admin</strong>
+            </div>
+        </div>
+
+    </aside>
+
+    <!-- KONTEN DASHBOARD -->
+    <main class="main-content">
+
+        <header class="topbar">
+            <div>
+                <p>Sistem Informasi Penggajian</p>
+            </div>
+
+            <div class="topbar-right">
+                <span>Oktober 2026</span>
+                <div class="topbar-avatar">A</div>
+            </div>
+        </header>
+
+        <!-- SAPAAN -->
+        <section class="welcome">
+            <p class="eyebrow">DASHBOARD</p>
+
+            <h1>
+                Selamat Datang,<br>
+                di Sistem Penggajian Karyawan
+            </h1>
+
+            <p class="welcome-description">
+                Kelola data karyawan dan proses penggajian
+                dengan mudah dan terstruktur.
+            </p>
+        </section>
+
+        <!-- KARTU RINGKASAN -->
+        <section class="summary-cards">
+
+            <article class="summary-card">
+                <div class="card-icon">♙</div>
+                <p>Total Karyawan</p>
+                <h2>— <small>orang</small></h2>
+                <span>Data karyawan terdaftar</span>
+            </article>
+
+            <article class="summary-card">
+                <div class="card-icon">▣</div>
+                <p>Total Penggajian</p>
+                <h2>Rp —</h2>
+                <span>Total gaji periode berjalan</span>
+            </article>
+
+            <article class="summary-card">
+                <div class="card-icon">▤</div>
+                <p>Rata-rata Gaji Bersih</p>
+                <h2>Rp —</h2>
+                <span>Rata-rata per karyawan</span>
+            </article>
+
+        </section>
+
+        <!-- AKTIVITAS TERBARU -->
+        <section class="recent-activity">
+
+            <div class="section-heading">
+                <div>
+                    <p class="eyebrow">RINGKASAN DATA</p>
+                    <h2>Aktivitas Terbaru</h2>
+                </div>
+
+                <a href="laporan.php" class="view-link">
+                    Lihat laporan →
+                </a>
+            </div>
+
+            <div class="table-wrapper">
+                <table class="activity-table">
+                    <thead>
+                        <tr>
+                            <th>Tanggal</th>
+                            <th>Nama Karyawan</th>
+                            <th>Jabatan</th>
+                            <th>Gaji Bersih</th>
+                        </tr>
+                    </thead>
+
+                    <tbody>
+                        <tr>
+                            <td colspan="4" style="text-align: center; padding: 30px;">
+                                Belum ada data penggajian.
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+        </section>
+
+        <footer class="footer">
+            <span>PAYROLL MANAGEMENT SYSTEM</span>
+            <span>2026</span>
+        </footer>
+
+    </main>
+
+</div>
+
+</body>
+</html>
